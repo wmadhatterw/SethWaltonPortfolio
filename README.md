@@ -1,6 +1,6 @@
 # Portfolio
 Deployed on github
-[link !](https://wmadhatterw.github.io/SethWalton/ "Seth Walton Portfolio")
+[link !](https://wmadhatterw.github.io/SethWaltonPortfolio/ "Seth Walton Portfolio")
 
 
 ## Features
