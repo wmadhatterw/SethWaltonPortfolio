@@ -24,6 +24,10 @@ a:focus,
 .btn:focus {
 	outline: none;
 }
+.image-size{
+    max-height: 200px;
+    width: 600px;
+}
 
 /*-----------------------
 ----- Typo Styles ------
